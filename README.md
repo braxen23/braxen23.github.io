@@ -1,2 +1,1 @@
-# braxen23.github.io
-Really sigma website
+<h1>Testi the server</h1>
